@@ -32,7 +32,7 @@ package VirtualTreesD;
 {$IMPLICITBUILD OFF}
 
 requires
-  DesignIDE,
+  designide,
   VirtualTreesR;
 
 contains
